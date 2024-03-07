@@ -1,4 +1,4 @@
- Feature: Search India on Google website and verify search.
+ Feature: Search keyword on Google website and verify search.
    @Regression
   Scenario Outline: Search keyword on Google website and verify it.
     

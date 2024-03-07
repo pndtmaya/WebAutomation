@@ -24,7 +24,7 @@ public class search
 	
 @After
 public void after() {
- //driver.close();  
+ driver.close();  
 }
 	
 
